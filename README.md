@@ -48,6 +48,6 @@ Conclusion:
 
 This project showcases core web development skills including DOM manipulation, API handling, and responsive design. By integrating live data from a public API, the application becomes a powerful tool for delivering real-time information in an engaging and user-friendly format. It serves as an excellent example of how modern web technologies can be used to create interactive and dynamic user experiences.
 
-**OUTPUT**    : 
+**OUTPUT**    :
 
 ![Image](https://github.com/user-attachments/assets/4b73c954-e52c-4a6b-84cc-efce1b671250)
