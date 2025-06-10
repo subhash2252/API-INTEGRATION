@@ -50,3 +50,4 @@ This project showcases core web development skills including DOM manipulation, A
 
 **OUTPUT**    : 
 
+![Image](https://github.com/user-attachments/assets/4b73c954-e52c-4a6b-84cc-efce1b671250)
